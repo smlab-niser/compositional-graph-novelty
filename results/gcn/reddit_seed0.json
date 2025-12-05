@@ -1,0 +1,41 @@
+{
+  "dataset": "reddit",
+  "seed": 0,
+  "k": 3,
+  "weights": {
+    "structural": 0.4,
+    "edge": 0.3,
+    "bridging": 0.3
+  },
+  "corpus_size": 36,
+  "eval_size": 5,
+  "init_time_seconds": 1.0238416194915771,
+  "novelty_scores": {
+    "mean": 0.3364162222222223,
+    "std": 0.02788288087211212,
+    "median": 0.34144,
+    "min": 0.29725111111111113,
+    "max": 0.3672677777777778,
+    "q25": 0.31188,
+    "q75": 0.3642422222222223
+  },
+  "component_scores": {
+    "structural": {
+      "mean": 0.8410405555555556,
+      "std": 0.06970720218028027
+    },
+    "edge": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "bridging": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "runtime": {
+    "mean_seconds": 0.01740579605102539,
+    "total_seconds": 0.08702898025512695,
+    "graphs_per_second": 57.45212669782426
+  }
+}

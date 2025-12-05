@@ -1,0 +1,41 @@
+{
+  "dataset": "ba",
+  "seed": 9,
+  "k": 3,
+  "weights": {
+    "structural": 0.4,
+    "edge": 0.3,
+    "bridging": 0.3
+  },
+  "corpus_size": 900,
+  "eval_size": 100,
+  "init_time_seconds": 41.40256190299988,
+  "novelty_scores": {
+    "mean": 0.6937513916349164,
+    "std": 3.7536279271585256e-05,
+    "median": 0.693750151597333,
+    "min": 0.693676081522723,
+    "max": 0.6938763781653259,
+    "q25": 0.6937253067946039,
+    "q75": 0.6937758659089682
+  },
+  "component_scores": {
+    "structural": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "edge": {
+      "mean": 0.9791713054497212,
+      "std": 0.00012512093090527604
+    },
+    "bridging": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "runtime": {
+    "mean_seconds": 0.04364453554153443,
+    "total_seconds": 4.364453554153442,
+    "graphs_per_second": 22.912375801280955
+  }
+}

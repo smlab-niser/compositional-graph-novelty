@@ -1,0 +1,12 @@
+{
+  "reddit": {
+    "k": 4,
+    "mean_novelty": 0.32548844444444447,
+    "std_novelty": 0.03372723219310188,
+    "median_novelty": 0.3082544444444445,
+    "init_time": 1.4188494682312012,
+    "eval_time": 0.08747410774230957,
+    "n_unique_motifs": 1143,
+    "n_eval_graphs": 5
+  }
+}

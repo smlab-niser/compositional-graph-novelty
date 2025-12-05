@@ -1,0 +1,41 @@
+{
+  "dataset": "enzymes",
+  "seed": 2,
+  "k": 3,
+  "weights": {
+    "structural": 0.4,
+    "edge": 0.3,
+    "bridging": 0.3
+  },
+  "corpus_size": 540,
+  "eval_size": 60,
+  "init_time_seconds": 6.977432489395142,
+  "novelty_scores": {
+    "mean": 0.5992248498191396,
+    "std": 0.0018012127525557035,
+    "median": 0.5992672856694693,
+    "min": 0.5948714953144365,
+    "max": 0.6018366997487968,
+    "q25": 0.5977632668056395,
+    "q75": 0.6008437084645489
+  },
+  "component_scores": {
+    "structural": {
+      "mean": 0.9998312800664316,
+      "std": 0.00024890335734365
+    },
+    "edge": {
+      "mean": 0.6643077926418898,
+      "std": 0.005960022823809009
+    },
+    "bridging": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "runtime": {
+    "mean_seconds": 0.011728147665659586,
+    "total_seconds": 0.7036888599395752,
+    "graphs_per_second": 85.26495645412395
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "qm9": {
+    "k": 4,
+    "mean_novelty": 0.6418780463659477,
+    "std_novelty": 0.02283103249613312,
+    "median_novelty": 0.6382532541620447,
+    "init_time": 0.3464226722717285,
+    "eval_time": 0.037746429443359375,
+    "n_unique_motifs": 540,
+    "n_eval_graphs": 10
+  }
+}

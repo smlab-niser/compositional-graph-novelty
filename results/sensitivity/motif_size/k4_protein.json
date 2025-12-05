@@ -1,0 +1,12 @@
+{
+  "protein": {
+    "k": 4,
+    "mean_novelty": 0.6744041023471945,
+    "std_novelty": 0.0011076880225836087,
+    "median_novelty": 0.6743601074466415,
+    "init_time": 1.1855196952819824,
+    "eval_time": 0.11685943603515625,
+    "n_unique_motifs": 2152,
+    "n_eval_graphs": 10
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "qm9": {
+    "k": 3,
+    "mean_novelty": 0.6401069969059229,
+    "std_novelty": 0.053399322431467076,
+    "median_novelty": 0.6214100263275661,
+    "init_time": 0.21886563301086426,
+    "eval_time": 0.02487778663635254,
+    "n_unique_motifs": 582,
+    "n_eval_graphs": 10
+  },
+  "arxiv": {
+    "k": 3,
+    "mean_novelty": 0.589150011015876,
+    "std_novelty": 0.09108654952535343,
+    "median_novelty": 0.6104577726438237,
+    "init_time": 0.7310349941253662,
+    "eval_time": 0.150285005569458,
+    "n_unique_motifs": 1139,
+    "n_eval_graphs": 10
+  },
+  "reddit": {
+    "k": 3,
+    "mean_novelty": 0.3482697777777778,
+    "std_novelty": 0.0328026727863131,
+    "median_novelty": 0.3483811111111111,
+    "init_time": 1.0086348056793213,
+    "eval_time": 0.27407407760620117,
+    "n_unique_motifs": 1572,
+    "n_eval_graphs": 5
+  },
+  "protein": {
+    "k": 3,
+    "mean_novelty": 0.6749622965797374,
+    "std_novelty": 0.000194228977436382,
+    "median_novelty": 0.6749968249355951,
+    "init_time": 0.7517237663269043,
+    "eval_time": 0.14832282066345215,
+    "n_unique_motifs": 2508,
+    "n_eval_graphs": 10
+  }
+}

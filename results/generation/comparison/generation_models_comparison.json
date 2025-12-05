@@ -1,0 +1,59 @@
+{
+  "perturbed_qm9": {
+    "overall_novelty": {
+      "mean": 0.6277438390645393,
+      "std": 0.03270644052659512
+    },
+    "structural_novelty": {
+      "mean": 0.9874379906952641,
+      "std": 0.007997815047013447
+    },
+    "edge_type_novelty": {
+      "mean": 0.7029247805193968,
+      "std": 0.05367968993571263
+    },
+    "bridging_novelty": {
+      "mean": 0.07297069543538216,
+      "std": 0.053476267587451845
+    },
+    "n_evaluated": 1000
+  },
+  "random_qm9": {
+    "overall_novelty": {
+      "mean": 0.8513576395632392,
+      "std": 0.00022667965651593306
+    },
+    "structural_novelty": {
+      "mean": 0.9995632726844784,
+      "std": 0.0005666991412898413
+    },
+    "edge_type_novelty": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "bridging_novelty": {
+      "mean": 0.505107768298159,
+      "std": 0.0
+    },
+    "n_evaluated": 1000
+  },
+  "testset_qm9": {
+    "overall_novelty": {
+      "mean": 0.630688110542764,
+      "std": 0.03752663366191763
+    },
+    "structural_novelty": {
+      "mean": 0.9878500999414244,
+      "std": 0.008421026561845622
+    },
+    "edge_type_novelty": {
+      "mean": 0.7104234814862364,
+      "std": 0.06095512815034009
+    },
+    "bridging_novelty": {
+      "mean": 0.07473675373441137,
+      "std": 0.06268001316287944
+    },
+    "n_evaluated": 1000
+  }
+}

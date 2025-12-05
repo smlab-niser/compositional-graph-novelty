@@ -1,0 +1,102 @@
+{
+  "qm9": [
+    {
+      "corpus_size": 100,
+      "mean_novelty": 0.6326490021833345,
+      "std_novelty": 0.033855420565776013,
+      "init_time": 0.24100184440612793,
+      "eval_time": 0.024639129638671875,
+      "n_unique_motifs": 653
+    },
+    {
+      "corpus_size": 500,
+      "mean_novelty": 0.6340558453063203,
+      "std_novelty": 0.03443379773493974,
+      "init_time": 1.158764362335205,
+      "eval_time": 0.024331092834472656,
+      "n_unique_motifs": 2431
+    },
+    {
+      "corpus_size": 1000,
+      "mean_novelty": 0.633308742643976,
+      "std_novelty": 0.03353930951227872,
+      "init_time": 2.2991385459899902,
+      "eval_time": 0.024445772171020508,
+      "n_unique_motifs": 4171
+    },
+    {
+      "corpus_size": 5000,
+      "mean_novelty": 0.6334473138199165,
+      "std_novelty": 0.03344615110682321,
+      "init_time": 11.547560453414917,
+      "eval_time": 0.025563478469848633,
+      "n_unique_motifs": 13400
+    },
+    {
+      "corpus_size": 10000,
+      "mean_novelty": 0.633310277463198,
+      "std_novelty": 0.03312879309706344,
+      "init_time": 23.18690013885498,
+      "eval_time": 0.026182174682617188,
+      "n_unique_motifs": 21266
+    },
+    {
+      "corpus_size": 50000,
+      "mean_novelty": 0.6332880113464967,
+      "std_novelty": 0.033324315855591535,
+      "init_time": 117.39811706542969,
+      "eval_time": 0.029676198959350586,
+      "n_unique_motifs": 56062
+    }
+  ],
+  "arxiv": [
+    {
+      "corpus_size": 100,
+      "mean_novelty": 0.5618907085216905,
+      "std_novelty": 0.11493592022713399,
+      "init_time": 0.9147520065307617,
+      "eval_time": 8.117873430252075,
+      "n_unique_motifs": 1411
+    },
+    {
+      "corpus_size": 500,
+      "mean_novelty": 0.5557823334421863,
+      "std_novelty": 0.12310994132613279,
+      "init_time": 4.235223293304443,
+      "eval_time": 8.05799674987793,
+      "n_unique_motifs": 6083
+    },
+    {
+      "corpus_size": 1000,
+      "mean_novelty": 0.557350480981185,
+      "std_novelty": 0.12338684121135264,
+      "init_time": 8.884183406829834,
+      "eval_time": 8.28373122215271,
+      "n_unique_motifs": 12045
+    },
+    {
+      "corpus_size": 5000,
+      "mean_novelty": 0.5535578072968289,
+      "std_novelty": 0.12258404938681446,
+      "init_time": 45.897276639938354,
+      "eval_time": 8.515819549560547,
+      "n_unique_motifs": 52113
+    },
+    {
+      "corpus_size": 10000,
+      "mean_novelty": 0.5530179545138566,
+      "std_novelty": 0.12194233650702342,
+      "init_time": 72.67296242713928,
+      "eval_time": 8.640851259231567,
+      "n_unique_motifs": 86984
+    },
+    {
+      "corpus_size": 50000,
+      "mean_novelty": 0.5530179545138566,
+      "std_novelty": 0.12194233650702342,
+      "init_time": 73.09112024307251,
+      "eval_time": 8.652316331863403,
+      "n_unique_motifs": 86984
+    }
+  ]
+}

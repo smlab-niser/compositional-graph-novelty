@@ -1,0 +1,41 @@
+{
+  "dataset": "protein",
+  "seed": 9,
+  "k": 3,
+  "weights": {
+    "structural": 0.4,
+    "edge": 0.3,
+    "bridging": 0.3
+  },
+  "corpus_size": 1001,
+  "eval_size": 112,
+  "init_time_seconds": 17.980286598205566,
+  "novelty_scores": {
+    "mean": 0.6746473710333859,
+    "std": 0.0004437300383989919,
+    "median": 0.6748034977068075,
+    "min": 0.6731725081240881,
+    "max": 0.67517805558078,
+    "q25": 0.6744602379169595,
+    "q75": 0.6749617284944863
+  },
+  "component_scores": {
+    "structural": {
+      "mean": 0.9992436429571708,
+      "std": 0.0009754060336871996
+    },
+    "edge": {
+      "mean": 0.916499712835059,
+      "std": 0.0005500421564716688
+    },
+    "bridging": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "runtime": {
+    "mean_seconds": 0.014029624206679208,
+    "total_seconds": 1.5713179111480713,
+    "graphs_per_second": 71.27774666437047
+  }
+}

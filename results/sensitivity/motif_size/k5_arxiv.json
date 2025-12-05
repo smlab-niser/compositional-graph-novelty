@@ -1,0 +1,12 @@
+{
+  "arxiv": {
+    "k": 5,
+    "mean_novelty": 0.5929834122123319,
+    "std_novelty": 0.0786241194439509,
+    "median_novelty": 0.61875967946237,
+    "init_time": 0.7351224422454834,
+    "eval_time": 0.10081291198730469,
+    "n_unique_motifs": 1212,
+    "n_eval_graphs": 10
+  }
+}

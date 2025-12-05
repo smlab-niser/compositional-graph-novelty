@@ -20,13 +20,6 @@ A compositional framework for measuring novelty in graph-structured data through
 2. **Edge-Type Novelty** - Rarity of node-type relationships  
 3. **Bridging Novelty** - Semantic distance bridged by connections
 
-**Key Features**:
-- ✅ Interpretable component-level decomposition
-- ✅ Strong validation (ρ = -0.70 with molecular synthesis difficulty)
-- ✅ Efficient O(|V|·k·d^k) time complexity
-- ✅ Evaluated on 11 diverse datasets
-- ✅ Superior to 5 baseline methods
-
 ---
 
 ## Installation
@@ -153,9 +146,8 @@ compositional-graph-novelty/
 @inproceedings{joshi2026compositional,
   title={Compositional Novelty Metrics for Graph-Structured Data},
   author={Joshi, Rucha Bhalchandra and Mishra, Subhankar},
-  booktitle={International Conference on Pattern Recognition (ICPR)},
+  booktitle={},
   year={2026},
-  organization={Springer}
 }
 ```
 
